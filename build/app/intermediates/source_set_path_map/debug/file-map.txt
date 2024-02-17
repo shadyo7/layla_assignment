@@ -1,0 +1,15 @@
+com.example.layla_assignment.app-core-1.7.0-0 /Users/shahid/.gradle/caches/transforms-3/010b79dbae0a8b74028aa5645158e6aa/transformed/core-1.7.0/res
+com.example.layla_assignment.app-jetified-annotation-experimental-1.1.0-1 /Users/shahid/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.layla_assignment.app-jetified-window-1.0.0-beta04-2 /Users/shahid/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.layla_assignment.app-jetified-exoplayer-core-2.18.7-3 /Users/shahid/.gradle/caches/transforms-3/98211325724c98e4e72cf2943cba61bf/transformed/jetified-exoplayer-core-2.18.7/res
+com.example.layla_assignment.app-jetified-window-java-1.0.0-beta04-4 /Users/shahid/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.layla_assignment.app-lifecycle-runtime-2.3.1-5 /Users/shahid/.gradle/caches/transforms-3/db4b39695b36fb6bc4e9dc229c8d81d0/transformed/lifecycle-runtime-2.3.1/res
+com.example.layla_assignment.app-debug-6 /Users/shahid/Documents/My Projrcts/layla_assignment/android/app/src/debug/res
+com.example.layla_assignment.app-main-7 /Users/shahid/Documents/My Projrcts/layla_assignment/android/app/src/main/res
+com.example.layla_assignment.app-pngs-8 /Users/shahid/Documents/My Projrcts/layla_assignment/build/app/generated/res/pngs/debug
+com.example.layla_assignment.app-resValues-9 /Users/shahid/Documents/My Projrcts/layla_assignment/build/app/generated/res/resValues/debug
+com.example.layla_assignment.app-rs-10 /Users/shahid/Documents/My Projrcts/layla_assignment/build/app/generated/res/rs/debug
+com.example.layla_assignment.app-mergeDebugResources-11 /Users/shahid/Documents/My Projrcts/layla_assignment/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.layla_assignment.app-mergeDebugResources-12 /Users/shahid/Documents/My Projrcts/layla_assignment/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.layla_assignment.app-merged_res-13 /Users/shahid/Documents/My Projrcts/layla_assignment/build/app/intermediates/merged_res/debug
+com.example.layla_assignment.app-packaged_res-14 /Users/shahid/Documents/My Projrcts/layla_assignment/build/video_player_android/intermediates/packaged_res/debug
